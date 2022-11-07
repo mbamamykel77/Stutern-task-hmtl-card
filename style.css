@@ -1,11 +1,11 @@
 .container-text {
     height: 20px;
     background-color: mediumblue;
-    margin: auto;
     margin-top: 50px;
     font-family: sans-serif;
     padding-bottom: 40px;
     font-size: x-large;
+    margin-bottom: 70px;
   }
   
   .container-text h3 {
@@ -37,9 +37,8 @@
     font-family: sans-serif;
     padding-bottom: 40px;
     font-size: x-large;
-    box-shadow: 0 2px 2px 0 black;
     font-weight: light;
-    margin-right: -250px;
+    margin-right: -150px;
   }
 
 .billed-11 {
@@ -66,7 +65,7 @@
   font-size: x-large;
   box-shadow: 0 2px 2px 0 black;
   font-weight: light;
-  margin-right: -250px;
+  margin-right: -150px;
 }
 
 .container-3 {
@@ -127,7 +126,7 @@
 
 button {
   background-color: dodgerblue;
-  width: 320px;
+  width: 250px;
   height: 60px;
   border-radius: 28px 28px;
   margin-left: 20px;
